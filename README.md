@@ -1,5 +1,5 @@
 # ES6-1
-3 tasks
+main.js include 3 tasks
 1- Swap the values of two variables using destructuring
 2- Using rest parameter and spread operator return max value from any array note: array length is not fixed return min and max value and display each of them separately after function call.
 3- Study new array api methods then create the following methods and apply it on this array var fruits = ["apple", "strawberry", "banana", "orange","mango"] 
